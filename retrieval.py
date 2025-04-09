@@ -17,7 +17,7 @@ from datetime import datetime
 
 llm = ChatOpenAI(
     openai_api_base="https://openrouter.ai/api/v1",
-    openai_api_key="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",
+    openai_api_key="",
     model_name="google/gemma-3-4b-it:free",
 )
 
@@ -25,7 +25,7 @@ llm_router = llm
 llm_rewriting = llm
 llm_response = ChatOpenAI(
     openai_api_base="https://openrouter.ai/api/v1",
-    openai_api_key="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",
+    openai_api_key="",
     model_name="meta-llama/llama-3.3-70b-instruct:free",
 )
 
