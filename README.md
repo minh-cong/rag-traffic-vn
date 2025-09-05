@@ -1,7 +1,13 @@
 # Hệ thống RAG cho Thông tư pháp luật Việt Nam
 
 Hệ thống RAG (Retrieval-Augmented Generation) cho các thông tư pháp luật Việt Nam, sử dụng kỹ thuật tìm kiếm ngữ nghĩa và trích xuất nâng cao.
-![Giao diện ứng dụng trả lời câu hỏi luật giao thông](images/ui_demo.png)
+
+## Demo Giao Diện
+
+Dưới đây là UI khi người dùng hỏi một câu trong ứng dụng:
+
+![Giao diện ứng dụng trả lời câu hỏi luật giao thông](images/ui-demo.jpg)
+
 ## Cấu trúc dự án
 
 ```
